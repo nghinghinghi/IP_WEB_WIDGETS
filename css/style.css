@@ -1,0 +1,16 @@
+
+
+
+.pill-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.pill {
+  padding: 10px 20px;
+  background-color: #7D937C;
+  color: white;
+  border-radius: 50px;
+  display: inline-block;
+  font-size: 1rem;
+}
